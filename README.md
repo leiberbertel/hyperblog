@@ -10,6 +10,7 @@ Un blog increíble para el [**curso de Git y Github de Platzi**](hhttp://https:/
 - El Verdadero amor por las buenas prácticas
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
-- creado por Leiber Bertel
+- Creado por Leiber Bertel
+- Incluye ejemplos en Windows, Linux y Mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](http://https://platzi.com/cursos/git-github/ "a ver el curso")
