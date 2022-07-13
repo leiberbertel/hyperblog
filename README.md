@@ -10,7 +10,6 @@ Un blog increíble para el [**curso de Git y Github de Platzi**](hhttp://https:/
 - El Verdadero amor por las buenas prácticas
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
-- creado por Leiber Bertel
 - Creado por Leiber Bertel
 - Incluye ejemplos en Windows, Linux y Mac
 - Disponible para todas la edades
