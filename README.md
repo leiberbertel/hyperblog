@@ -11,5 +11,8 @@ Un blog increíble para el [**curso de Git y Github de Platzi**](hhttp://https:/
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
 - creado por Leiber Bertel
+- Creado por Leiber Bertel
+- Incluye ejemplos en Windows, Linux y Mac
+- Disponible para todas la edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](http://https://platzi.com/cursos/git-github/ "a ver el curso")
